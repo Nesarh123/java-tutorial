@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Data_types",
+            "request": "launch",
+            "mainClass": "Data_types",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "If_Else",
+            "request": "launch",
+            "mainClass": "If_Else",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "If_Else_If",
+            "request": "launch",
+            "mainClass": "If_Else_If",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "Literals",
+            "request": "launch",
+            "mainClass": "Literals",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "While_Loop",
+            "request": "launch",
+            "mainClass": "Loops.While_Loop",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "Arithematic_Operators",
+            "request": "launch",
+            "mainClass": "Operators.Arithematic_Operators",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "Logical_Operators",
+            "request": "launch",
+            "mainClass": "Operators.Logical_Operators",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "Relational_Operators",
+            "request": "launch",
+            "mainClass": "Operators.Relational_Operators",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "Ternary_Operator",
+            "request": "launch",
+            "mainClass": "Operators.Ternary_Operator",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "Type_Conversion_and_casting",
+            "request": "launch",
+            "mainClass": "Type_Conversion_and_casting",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "Updated_Switch",
+            "request": "launch",
+            "mainClass": "Updated_Switch",
+            "projectName": "Java_Learning_c3eab544"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": "Java_Learning_c3eab544"
+        }
+    ]
+}
