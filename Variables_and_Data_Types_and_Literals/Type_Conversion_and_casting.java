@@ -1,7 +1,7 @@
 class Type_Conversion_and_casting {
     public static void main(String a[]){
         byte b = 127;
-        int i = 385;
+        int i = 257;
         b = (byte) i;
         System.out.println(b);
 

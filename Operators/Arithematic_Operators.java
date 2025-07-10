@@ -1,4 +1,3 @@
-package Operators;
 class Arithematic_Operators {
     public static void main(String[] args) {
         int num = 7;
@@ -9,7 +8,7 @@ class Arithematic_Operators {
         // num1 *= 2;   
         // num++ ; 
         // ++num;
-        int result = num++;    
+        int result = ++num;    
         System.out.println(result);
     }
 }
