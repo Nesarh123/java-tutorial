@@ -8,7 +8,7 @@ class While_Loop{
             int j = 1;
             while (j <= 3)
             {
-                System.out.println("Hello " + j );
+                System.out.println("Hello " + j);
                 j++;
             }
             i++;
