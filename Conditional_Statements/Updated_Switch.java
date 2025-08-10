@@ -26,3 +26,5 @@ class Updated_Switch_Version_1 {
         System.out.println(result);
     } 
 }
+
+//Adding return keyword is not required 
