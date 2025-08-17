@@ -8,9 +8,9 @@ class Human
     {
         return age;
     }
-    public void setAge(int age)
+    public void setAge(int age, Human human)
     {
-        this.age = age;
+        human.age = age;
     }
     public String getName()
     {
@@ -27,7 +27,7 @@ public class This_Keyword
     public static void main(String[] args) 
     {
         Human human = new Human();
-        human.setAge(26);
+        human.setAge(26, new Human());
         human.setName("Nesar");
         System.out.println(human.getName()+" : "+human.getAge());
         

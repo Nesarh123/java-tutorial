@@ -32,6 +32,6 @@ public class ThisAndSuper
 {
     public static void main(String[] args) 
     {
-        B b = new B(6); 
+        new B(2); 
     }
 }

@@ -17,8 +17,7 @@ class Calculator
 }
 public class Method_Overloading {
     public static void main(String[] args)
-    {
-        int data = 10; 
+    { 
         Calculator cal = new Calculator();
         double res = cal.add(3.5, 4);
         System.out.println(res);
